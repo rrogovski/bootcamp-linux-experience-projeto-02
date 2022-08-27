@@ -10,7 +10,7 @@ git clone https://github.com/rrogovski/bootcamp-linux-experience-projeto-02.git
 cd bootcamp-linux-experience-projeto-02
 ```
 
-Copie o scirpt para o servidor que será executado.
+Copie o script para o servidor (Ubuntu ou um distro que use gerenciador de pacotes APT) que será executado.
 
 Acesse o diretório do script, altere para permissão de execução e execute:
 
